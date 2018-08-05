@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Muhammad Zaheer</title>
+    <title>Posts on </title>
     <link>/post/</link>
-    <description>Recent content in Posts on Muhammad Zaheer</description>
+    <description>Recent content in Posts on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
@@ -11,15 +11,6 @@
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>My Article Name</title>
-      <link>/post/my-article-name/</link>
-      <pubDate>Sat, 04 Aug 2018 18:34:25 -0600</pubDate>
-      
-      <guid>/post/my-article-name/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
