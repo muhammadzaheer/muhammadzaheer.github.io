@@ -1,14 +1,41 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic on Academic</title>
+    <title>Muhammad Zaheer on Muhammad Zaheer</title>
     <link>/</link>
-    <description>Recent content in Academic on Academic</description>
+    <description>Recent content in Muhammad Zaheer on Muhammad Zaheer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0600</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>My Article Name</title>
+      <link>/post/my-article-name/</link>
+      <pubDate>Sat, 04 Aug 2018 18:34:25 -0600</pubDate>
+      
+      <guid>/post/my-article-name/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model-based Reinforcement Learning with Non-linear Expectation Models and Stochastic Environments</title>
+      <link>/publication/mbrl_nlm/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 -0600</pubDate>
+      
+      <guid>/publication/mbrl_nlm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Organizing Experience: A Deeper Look at Replay Mechanisms for Sample-based Planning in Continuous State Domains</title>
+      <link>/publication/org-exp/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 -0600</pubDate>
+      
+      <guid>/publication/org-exp/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
